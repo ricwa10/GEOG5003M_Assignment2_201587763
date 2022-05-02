@@ -1,5 +1,4 @@
 # GEOG5003M_Assignment2_201587763
-GEOG5003M_Assignment2
 
 This folder contains the Individual Project (Assignment 2) of the GEOG5003M Programming for Geographical Information Analysis Module, made of the following files:
 
